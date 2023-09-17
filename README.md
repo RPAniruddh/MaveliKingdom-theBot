@@ -1,13 +1,18 @@
 # MaveliKingdom-theBot
 Overview:-
+
 A conversational AI called MaveliKingdom Chatbot is intended to have conversations and deliver knowledge about King Mahabali and the festival of Onam, a traditional event in the Indian state of Kerala. TensorFlow and Streamlit were used to create this chatbot for web-based and command-line conversations.
 
 Features:-
+
 . Responds to user queries about King Mahabali, Onam, and related topics.
 . Provides information on Onam customs, traditions, and cultural significance.
 . Supports both web-based and command-line interfaces for user interaction.
 
 Usage:-
+
+Note: train the model at least once before use
+
 Web Interface
 To interact with the chatbot through the web interface, follow these steps:-
 . Clone the GitHub repository to your local machine.
@@ -23,6 +28,7 @@ To interact with the chatbot through the web interface, follow these steps:-
 . Access the web interface in your web browser and start chatting with the chatbot.
 
 Command-Line Interface
+
 To interact with the chatbot through the command-line interface, follow these steps:
 
 . Clone the GitHub repository to your local machine.
@@ -38,9 +44,11 @@ To interact with the chatbot through the command-line interface, follow these st
 . Start chatting with the chatbot by typing your questions and receiving responses.
 
 Customization:-
+
 The chatbot's responses and behavior can be customized by modifying the intents.json file. You can add new intents, patterns, and responses to enhance the chatbot's capabilities and knowledge.
 
 Dependencies:-
+
 . Python 3.x
 . TensorFlow
 . Streamlit
