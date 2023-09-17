@@ -51,5 +51,5 @@ The chatbot's responses and behavior can be customized by modifying the intents.
 . Numpy<br>
 . Colorama (for the command-line interface)<br>
 
-#**Data**:-<be>
+## **Data**:-<br>
 The chatbot is trained on a dataset defined in the intents.json file. This file contains predefined intents, patterns, and responses related to King Mahabali and Onam. You can extend or modify this dataset to adapt the chatbot to your specific use case.
