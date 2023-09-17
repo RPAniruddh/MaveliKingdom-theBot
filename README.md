@@ -8,7 +8,7 @@ A conversational AI called MaveliKingdom Chatbot is intended to have conversatio
 . Supports both web-based and command-line interfaces for user interaction.<br>
 
 ## **Usage**:-<br>
-##### **Note**: train the model at least once before use<br>
+#### **Note**: train the model at least once before use<br>
 
 ## **Web Interface**
 To interact with the chatbot through the web interface, follow these steps:-<br>
