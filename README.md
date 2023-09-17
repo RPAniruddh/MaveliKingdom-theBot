@@ -10,7 +10,7 @@ A conversational AI called MaveliKingdom Chatbot is intended to have conversatio
 ## **Usage**:-<br>
 ### **Note**: train the model at least once before use<br>
 
-## **Web Interface**<br>
+## **Web Interface**
 To interact with the chatbot through the web interface, follow these steps:-<br>
 . Clone the GitHub repository to your local machine.<br>
 . Navigate to the repository folder.<br>
@@ -24,7 +24,7 @@ To interact with the chatbot through the web interface, follow these steps:-<br>
       
 . Access the web interface in your web browser and start chatting with the chatbot.<br>
 
-### **Command-Line Interface**<br>
+### **Command-Line Interface**
 
 To interact with the chatbot through the command-line interface, follow these steps:<br>
 
