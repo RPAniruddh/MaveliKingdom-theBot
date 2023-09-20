@@ -16,12 +16,14 @@ To interact with the chatbot through the web interface, follow these steps:-<br>
 . Navigate to the repository folder.<br>
 . Install the required Python libraries using the following command:
 
+```bash
       pip install -r requirements.txt
+```
+. Run the web interface using Streamlit:<be>
 
-. Run the web interface using Streamlit:<br>
-
+```bash
       streamlit run web.py
-      
+```      
 . Access the web interface in your web browser and start chatting with the chatbot.<br>
 
 ### **Command-Line Interface**
@@ -30,13 +32,16 @@ To interact with the chatbot through the command-line interface, follow these st
 
 . Clone the GitHub repository to your local machine.<br>
 . Navigate to the repository folder.<br>
-. To train the bot run:<br>
+. To train the bot run:<be>
 
+```bash
       python train.py
-      
-. Run the command-line chatbot:<br>
+```      
+. Run the command-line chatbot:<be>
 
+```bash
       python mavelibot.py
+```
 
 . Start chatting with the chatbot by typing your questions and receiving responses.<br>
 
